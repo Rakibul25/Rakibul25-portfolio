@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "06ab9ee41d05abba43e86c19a6bce28f",
+  "assets/AssetManifest.json": "f4c8127d0c58978e9466c7ac1d83b59a",
 "assets/assets/appss/bank.png": "b856407ef90adbe6a085ff7310c5246d",
 "assets/assets/appss/class.png": "95bd238775cee81d3a02a7e10e07674d",
 "assets/assets/appss/homerent.png": "e85a7f25c0e969828cfb5bb6b787eabb",
 "assets/assets/appss/sharecare.png": "d20feeb5de2026dd52a354a4be2ecabd",
 "assets/assets/appss/weather.png": "7de82e8bb662de4b3ef02d946c73133e",
 "assets/assets/images/blacksuit.jpeg": "c75b084450d0b0896e0ed882fb0950c8",
+"assets/assets/images/coding.png": "49a53b9141e042468dfc38b8ec38ef6f",
 "assets/assets/images/github.png": "b17444f181dfac9004b1138776afc162",
 "assets/assets/images/instagram.png": "6d85ad19e638d3cac63a559a367e182f",
 "assets/assets/images/linkedIn.png": "539e826d2e9efd907a4a487e3fd4c27a",
@@ -18,12 +19,10 @@ const RESOURCES = {
 "assets/assets/images/reddishavatar.jpeg": "20e54512910a754e98a949ff6ecd5e7c",
 "assets/assets/images/sitting.jpeg": "c0c3efb26c8927f06c9cda2ff42ef7a7",
 "assets/assets/images/upperback.jpg": "5d4ab5755b3a91a49141846bc1f5687e",
-"assets/assets/lotties/programming.json": "6ba7164713572d4dcf6b6d932faf0306",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "23b4a5a0f81c7318ec2fd46bc4b44bc0",
+"assets/NOTICES": "3fcafa7dbf446344258bcd8e611b6058",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
@@ -35,9 +34,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f5172aacd2258db6022641759d86f195",
-"/": "f5172aacd2258db6022641759d86f195",
-"main.dart.js": "228ab3cca7cc5d139b4ce7c146770ef6",
+"index.html": "12dc9b3c5833b60e798be006cd1cd987",
+"/": "12dc9b3c5833b60e798be006cd1cd987",
+"main.dart.js": "efe42bdfbeb74f637247ccf5df62aa0c",
 "manifest.json": "e8b93911c990aea179dc297b73a980d5",
 "version.json": "961f48960438b7c81295c43961109072"
 };
