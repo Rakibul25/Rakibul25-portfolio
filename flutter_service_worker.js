@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a812bd0b19c5d8415bfcd91938a736ed",
+  "assets/AssetManifest.json": "039b70e00c01594d0f954b494f479ae4",
 "assets/assets/appss/bank.png": "b856407ef90adbe6a085ff7310c5246d",
 "assets/assets/appss/class.png": "95bd238775cee81d3a02a7e10e07674d",
+"assets/assets/appss/ecommerce.png": "dc7087f705ba0477f96e35528f247d06",
 "assets/assets/appss/homerent.png": "e85a7f25c0e969828cfb5bb6b787eabb",
 "assets/assets/appss/sharecare.png": "d20feeb5de2026dd52a354a4be2ecabd",
 "assets/assets/appss/weather.png": "7de82e8bb662de4b3ef02d946c73133e",
@@ -36,9 +37,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6477aca2ac7cb2cdd11b5e711c220bd9",
-"/": "6477aca2ac7cb2cdd11b5e711c220bd9",
-"main.dart.js": "165f9bdffb98a4e21650f8025a2a9f47",
+"index.html": "27f67c0f4dbb9ae7bae17c912cbccdc0",
+"/": "27f67c0f4dbb9ae7bae17c912cbccdc0",
+"main.dart.js": "db7227143de1e1c8742949e536984753",
 "manifest.json": "e8b93911c990aea179dc297b73a980d5",
 "version.json": "961f48960438b7c81295c43961109072"
 };
