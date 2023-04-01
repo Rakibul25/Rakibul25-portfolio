@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "039b70e00c01594d0f954b494f479ae4",
+  "assets/AssetManifest.json": "494a309d8f6ee203f60c4066f0380c19",
+"assets/assets/appss/auth.png": "bbac22eb07ed82eea4cefd8c6251b3b9",
 "assets/assets/appss/bank.png": "b856407ef90adbe6a085ff7310c5246d",
 "assets/assets/appss/class.png": "95bd238775cee81d3a02a7e10e07674d",
 "assets/assets/appss/ecommerce.png": "dc7087f705ba0477f96e35528f247d06",
 "assets/assets/appss/homerent.png": "e85a7f25c0e969828cfb5bb6b787eabb",
 "assets/assets/appss/sharecare.png": "d20feeb5de2026dd52a354a4be2ecabd",
-"assets/assets/appss/weather.png": "7de82e8bb662de4b3ef02d946c73133e",
+"assets/assets/appss/weather.png": "9db220a94c6d6c7015261441c7d76f2b",
 "assets/assets/images/blacksuit.jpeg": "c75b084450d0b0896e0ed882fb0950c8",
 "assets/assets/images/coding.png": "49a53b9141e042468dfc38b8ec38ef6f",
 "assets/assets/images/github.png": "b17444f181dfac9004b1138776afc162",
@@ -37,9 +38,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "27f67c0f4dbb9ae7bae17c912cbccdc0",
-"/": "27f67c0f4dbb9ae7bae17c912cbccdc0",
-"main.dart.js": "db7227143de1e1c8742949e536984753",
+"index.html": "08efb38c33f63ed49622f74e5022d73c",
+"/": "08efb38c33f63ed49622f74e5022d73c",
+"main.dart.js": "e7530c592d0f6d70e1f00cca15e9d6e4",
 "manifest.json": "e8b93911c990aea179dc297b73a980d5",
 "version.json": "961f48960438b7c81295c43961109072"
 };
